@@ -1,0 +1,10 @@
+D:\.NET\Student Information\Student Information\bin\Debug\Student Information.exe.config
+D:\.NET\Student Information\Student Information\bin\Debug\Student Information.exe
+D:\.NET\Student Information\Student Information\bin\Debug\Student Information.pdb
+D:\.NET\Student Information\Student Information\bin\Debug\Student Information.xml
+D:\.NET\Student Information\Student Information\obj\Debug\Student_Information.Form1.resources
+D:\.NET\Student Information\Student Information\obj\Debug\Student_Information.Resources.resources
+D:\.NET\Student Information\Student Information\obj\Debug\Student Information.vbproj.GenerateResource.Cache
+D:\.NET\Student Information\Student Information\obj\Debug\Student Information.exe
+D:\.NET\Student Information\Student Information\obj\Debug\Student Information.xml
+D:\.NET\Student Information\Student Information\obj\Debug\Student Information.pdb

@@ -1,0 +1,4 @@
+D:\.NET\array_prgm\array_prgm\bin\Debug\array_prgm.exe.config
+D:\.NET\array_prgm\array_prgm\obj\Debug\array_prgm.exe
+D:\.NET\array_prgm\array_prgm\obj\Debug\array_prgm.xml
+D:\.NET\array_prgm\array_prgm\obj\Debug\array_prgm.pdb

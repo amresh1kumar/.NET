@@ -1,0 +1,11 @@
+D:\.NET\odd_even\odd_even\bin\Debug\odd_even.exe.config
+D:\.NET\odd_even\odd_even\bin\Debug\odd_even.exe
+D:\.NET\odd_even\odd_even\bin\Debug\odd_even.pdb
+D:\.NET\odd_even\odd_even\bin\Debug\odd_even.xml
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.vbproj.AssemblyReference.cache
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.Resources.resources
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.vbproj.GenerateResource.cache
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.vbproj.CoreCompileInputs.cache
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.exe
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.xml
+D:\.NET\odd_even\odd_even\obj\Debug\odd_even.pdb

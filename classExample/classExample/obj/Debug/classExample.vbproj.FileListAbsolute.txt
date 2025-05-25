@@ -1,0 +1,9 @@
+D:\.NET\classExample\classExample\bin\Debug\classExample.exe.config
+D:\.NET\classExample\classExample\obj\Debug\classExample.Resources.resources
+D:\.NET\classExample\classExample\obj\Debug\classExample.vbproj.GenerateResource.Cache
+D:\.NET\classExample\classExample\bin\Debug\classExample.exe
+D:\.NET\classExample\classExample\bin\Debug\classExample.pdb
+D:\.NET\classExample\classExample\bin\Debug\classExample.xml
+D:\.NET\classExample\classExample\obj\Debug\classExample.exe
+D:\.NET\classExample\classExample\obj\Debug\classExample.xml
+D:\.NET\classExample\classExample\obj\Debug\classExample.pdb

@@ -1,0 +1,16 @@
+D:\.NET\marks\marks\bin\Debug\net6.0-windows\marks.exe
+D:\.NET\marks\marks\bin\Debug\net6.0-windows\marks.deps.json
+D:\.NET\marks\marks\bin\Debug\net6.0-windows\marks.runtimeconfig.json
+D:\.NET\marks\marks\bin\Debug\net6.0-windows\marks.dll
+D:\.NET\marks\marks\bin\Debug\net6.0-windows\marks.pdb
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.Form1.resources
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.vbproj.GenerateResource.cache
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.AssemblyInfoInputs.cache
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.AssemblyInfo.vb
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.vbproj.CoreCompileInputs.cache
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.dll
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\refint\marks.dll
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.pdb
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\marks.genruntimeconfig.cache
+D:\.NET\marks\marks\obj\Debug\net6.0-windows\ref\marks.dll

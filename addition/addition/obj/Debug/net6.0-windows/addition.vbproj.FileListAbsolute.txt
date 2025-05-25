@@ -1,0 +1,16 @@
+D:\.NET\addition\addition\bin\Debug\net6.0-windows\addition.exe
+D:\.NET\addition\addition\bin\Debug\net6.0-windows\addition.deps.json
+D:\.NET\addition\addition\bin\Debug\net6.0-windows\addition.runtimeconfig.json
+D:\.NET\addition\addition\bin\Debug\net6.0-windows\addition.dll
+D:\.NET\addition\addition\bin\Debug\net6.0-windows\addition.pdb
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.Form1.resources
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.vbproj.GenerateResource.cache
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.AssemblyInfoInputs.cache
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.AssemblyInfo.vb
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.vbproj.CoreCompileInputs.cache
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.dll
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\refint\addition.dll
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.pdb
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\addition.genruntimeconfig.cache
+D:\.NET\addition\addition\obj\Debug\net6.0-windows\ref\addition.dll

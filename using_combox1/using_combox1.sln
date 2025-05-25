@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "using_combox1", "using_combox1\using_combox1.vbproj", "{0677DF7F-53A0-4062-9333-5D2FFB3A2BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0677DF7F-53A0-4062-9333-5D2FFB3A2BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0677DF7F-53A0-4062-9333-5D2FFB3A2BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0677DF7F-53A0-4062-9333-5D2FFB3A2BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0677DF7F-53A0-4062-9333-5D2FFB3A2BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+D:\.NET\practical39\practical39\bin\Debug\practical39.exe.config

@@ -1,0 +1,14 @@
+D:\.NET\difference_of_two_date\difference_of_two_date\bin\Debug\net6.0\difference_of_two_date.exe
+D:\.NET\difference_of_two_date\difference_of_two_date\bin\Debug\net6.0\difference_of_two_date.deps.json
+D:\.NET\difference_of_two_date\difference_of_two_date\bin\Debug\net6.0\difference_of_two_date.runtimeconfig.json
+D:\.NET\difference_of_two_date\difference_of_two_date\bin\Debug\net6.0\difference_of_two_date.dll
+D:\.NET\difference_of_two_date\difference_of_two_date\bin\Debug\net6.0\difference_of_two_date.pdb
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.AssemblyInfoInputs.cache
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.AssemblyInfo.vb
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.vbproj.CoreCompileInputs.cache
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.dll
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\refint\difference_of_two_date.dll
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.pdb
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\difference_of_two_date.genruntimeconfig.cache
+D:\.NET\difference_of_two_date\difference_of_two_date\obj\Debug\net6.0\ref\difference_of_two_date.dll

@@ -1,0 +1,10 @@
+D:\.NET\factorial_prgm\factorial_prgm\bin\Debug\factorial_prgm.exe.config
+D:\.NET\factorial_prgm\factorial_prgm\bin\Debug\factorial_prgm.exe
+D:\.NET\factorial_prgm\factorial_prgm\bin\Debug\factorial_prgm.pdb
+D:\.NET\factorial_prgm\factorial_prgm\bin\Debug\factorial_prgm.xml
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.Resources.resources
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.vbproj.GenerateResource.cache
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.exe
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.xml
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.pdb
+D:\.NET\factorial_prgm\factorial_prgm\obj\Debug\factorial_prgm.vbprojResolveAssemblyReference.cache

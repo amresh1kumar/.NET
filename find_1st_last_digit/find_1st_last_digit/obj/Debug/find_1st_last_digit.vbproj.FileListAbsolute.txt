@@ -1,0 +1,11 @@
+D:\.NET\find_1st_last_digit\find_1st_last_digit\bin\Debug\find_1st_last_digit.exe.config
+D:\.NET\find_1st_last_digit\find_1st_last_digit\bin\Debug\find_1st_last_digit.exe
+D:\.NET\find_1st_last_digit\find_1st_last_digit\bin\Debug\find_1st_last_digit.pdb
+D:\.NET\find_1st_last_digit\find_1st_last_digit\bin\Debug\find_1st_last_digit.xml
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.vbproj.AssemblyReference.cache
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.Resources.resources
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.vbproj.GenerateResource.cache
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.vbproj.CoreCompileInputs.cache
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.exe
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.xml
+D:\.NET\find_1st_last_digit\find_1st_last_digit\obj\Debug\find_1st_last_digit.pdb

@@ -1,0 +1,4 @@
+F:\.NET\mdi\mdi\bin\Debug\mdi.exe.config
+F:\.NET\mdi\mdi\obj\Debug\mdi.exe
+F:\.NET\mdi\mdi\obj\Debug\mdi.xml
+F:\.NET\mdi\mdi\obj\Debug\mdi.pdb

@@ -1,0 +1,12 @@
+D:\.NET\rocket_launch\rocket_launch\bin\Debug\rocket_launch.exe.config
+D:\.NET\rocket_launch\rocket_launch\bin\Debug\rocket_launch.exe
+D:\.NET\rocket_launch\rocket_launch\bin\Debug\rocket_launch.pdb
+D:\.NET\rocket_launch\rocket_launch\bin\Debug\rocket_launch.xml
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.Form1.resources
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.Resources.resources
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.vbproj.GenerateResource.Cache
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.exe
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.xml
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.pdb
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.vbproj.AssemblyReference.cache
+D:\.NET\rocket_launch\rocket_launch\obj\Debug\rocket_launch.vbproj.CoreCompileInputs.cache

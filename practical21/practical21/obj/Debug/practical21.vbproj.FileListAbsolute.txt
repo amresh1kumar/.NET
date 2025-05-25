@@ -1,0 +1,18 @@
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\bin\Debug\practical21.exe.config
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\bin\Debug\practical21.exe
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\bin\Debug\practical21.pdb
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\bin\Debug\practical21.xml
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.Form1.resources
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.Resources.resources
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.vbproj.GenerateResource.Cache
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.exe
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.xml
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\practical21\practical21\obj\Debug\practical21.pdb
+F:\Projects\sachin III\practical21\practical21\bin\Debug\practical21.exe.config
+F:\Projects\sachin III\practical21\practical21\obj\Debug\practical21.exe
+F:\Projects\sachin III\practical21\practical21\obj\Debug\practical21.xml
+F:\Projects\sachin III\practical21\practical21\obj\Debug\practical21.pdb
+D:\.NET\practical21\practical21\bin\Debug\practical21.exe.config
+D:\.NET\practical21\practical21\obj\Debug\practical21.exe
+D:\.NET\practical21\practical21\obj\Debug\practical21.xml
+D:\.NET\practical21\practical21\obj\Debug\practical21.pdb

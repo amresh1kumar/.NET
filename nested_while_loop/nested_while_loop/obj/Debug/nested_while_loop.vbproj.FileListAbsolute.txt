@@ -1,0 +1,11 @@
+D:\.NET\nested_while_loop\nested_while_loop\bin\Debug\nested_while_loop.exe.config
+D:\.NET\nested_while_loop\nested_while_loop\bin\Debug\nested_while_loop.exe
+D:\.NET\nested_while_loop\nested_while_loop\bin\Debug\nested_while_loop.pdb
+D:\.NET\nested_while_loop\nested_while_loop\bin\Debug\nested_while_loop.xml
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.vbproj.AssemblyReference.cache
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.Resources.resources
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.vbproj.GenerateResource.cache
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.vbproj.CoreCompileInputs.cache
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.exe
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.xml
+D:\.NET\nested_while_loop\nested_while_loop\obj\Debug\nested_while_loop.pdb

@@ -1,0 +1,11 @@
+D:\.NET\chech_alphabet\chech_alphabet\bin\Debug\chech_alphabet.exe.config
+D:\.NET\chech_alphabet\chech_alphabet\bin\Debug\chech_alphabet.exe
+D:\.NET\chech_alphabet\chech_alphabet\bin\Debug\chech_alphabet.pdb
+D:\.NET\chech_alphabet\chech_alphabet\bin\Debug\chech_alphabet.xml
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\check_alphabet.vbproj.AssemblyReference.cache
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\chech_alphabet.Resources.resources
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\check_alphabet.vbproj.GenerateResource.cache
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\check_alphabet.vbproj.CoreCompileInputs.cache
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\chech_alphabet.exe
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\chech_alphabet.xml
+D:\.NET\chech_alphabet\chech_alphabet\obj\Debug\chech_alphabet.pdb

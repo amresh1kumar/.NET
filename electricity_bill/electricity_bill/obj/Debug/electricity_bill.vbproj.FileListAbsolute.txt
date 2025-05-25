@@ -1,0 +1,1 @@
+D:\.NET\electricity_bill\electricity_bill\bin\Debug\electricity_bill.exe.config

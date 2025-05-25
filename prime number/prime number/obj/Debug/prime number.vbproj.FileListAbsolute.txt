@@ -1,0 +1,9 @@
+D:\.NET\prime number\prime number\bin\Debug\prime number.exe.config
+D:\.NET\prime number\prime number\bin\Debug\prime number.exe
+D:\.NET\prime number\prime number\bin\Debug\prime number.pdb
+D:\.NET\prime number\prime number\bin\Debug\prime number.xml
+D:\.NET\prime number\prime number\obj\Debug\prime_number.Resources.resources
+D:\.NET\prime number\prime number\obj\Debug\prime number.vbproj.GenerateResource.Cache
+D:\.NET\prime number\prime number\obj\Debug\prime number.exe
+D:\.NET\prime number\prime number\obj\Debug\prime number.xml
+D:\.NET\prime number\prime number\obj\Debug\prime number.pdb

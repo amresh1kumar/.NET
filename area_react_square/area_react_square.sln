@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "area_react_square", "area_react_square.vbproj", "{46C8B148-AD4B-4E29-8265-79A251DF7BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C8B148-AD4B-4E29-8265-79A251DF7BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C8B148-AD4B-4E29-8265-79A251DF7BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C8B148-AD4B-4E29-8265-79A251DF7BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C8B148-AD4B-4E29-8265-79A251DF7BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F229F40C-6914-48A5-A124-B8006D6653FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\.NET\for loop\bin\Debug\for loop.exe.config
+D:\.NET\for loop\bin\Debug\for loop.exe
+D:\.NET\for loop\bin\Debug\for loop.pdb
+D:\.NET\for loop\bin\Debug\for loop.xml
+D:\.NET\for loop\obj\Debug\for_loop.Resources.resources
+D:\.NET\for loop\obj\Debug\for loop.vbproj.GenerateResource.cache
+D:\.NET\for loop\obj\Debug\for loop.exe
+D:\.NET\for loop\obj\Debug\for loop.xml
+D:\.NET\for loop\obj\Debug\for loop.pdb
+D:\.NET\for loop\obj\Debug\for loop.vbprojResolveAssemblyReference.cache

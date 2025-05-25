@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "function procedure without argument", "function procedure without argument\function procedure without argument.vbproj", "{97857098-0263-4BCC-AB24-EC747CDCD041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97857098-0263-4BCC-AB24-EC747CDCD041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97857098-0263-4BCC-AB24-EC747CDCD041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97857098-0263-4BCC-AB24-EC747CDCD041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97857098-0263-4BCC-AB24-EC747CDCD041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

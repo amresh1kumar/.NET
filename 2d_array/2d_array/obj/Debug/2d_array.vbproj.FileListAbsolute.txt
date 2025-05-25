@@ -1,0 +1,11 @@
+D:\.NET\2d_array\2d_array\bin\Debug\2d_array.exe.config
+D:\.NET\2d_array\2d_array\bin\Debug\2d_array.exe
+D:\.NET\2d_array\2d_array\bin\Debug\2d_array.pdb
+D:\.NET\2d_array\2d_array\bin\Debug\2d_array.xml
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.vbproj.AssemblyReference.cache
+D:\.NET\2d_array\2d_array\obj\Debug\_2d_array.Resources.resources
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.vbproj.GenerateResource.cache
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.vbproj.CoreCompileInputs.cache
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.exe
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.xml
+D:\.NET\2d_array\2d_array\obj\Debug\2d_array.pdb

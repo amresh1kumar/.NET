@@ -1,0 +1,16 @@
+D:\.NET\electric_bill\electric_bill\bin\Debug\net6.0-windows\electric_bill.exe
+D:\.NET\electric_bill\electric_bill\bin\Debug\net6.0-windows\electric_bill.deps.json
+D:\.NET\electric_bill\electric_bill\bin\Debug\net6.0-windows\electric_bill.runtimeconfig.json
+D:\.NET\electric_bill\electric_bill\bin\Debug\net6.0-windows\electric_bill.dll
+D:\.NET\electric_bill\electric_bill\bin\Debug\net6.0-windows\electric_bill.pdb
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.Form1.resources
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.vbproj.GenerateResource.cache
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.AssemblyInfoInputs.cache
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.AssemblyInfo.vb
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.vbproj.CoreCompileInputs.cache
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.dll
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\refint\electric_bill.dll
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.pdb
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\electric_bill.genruntimeconfig.cache
+D:\.NET\electric_bill\electric_bill\obj\Debug\net6.0-windows\ref\electric_bill.dll

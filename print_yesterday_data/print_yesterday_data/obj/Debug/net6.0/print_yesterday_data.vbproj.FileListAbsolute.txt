@@ -1,0 +1,14 @@
+D:\.NET\print_yesterday_data\print_yesterday_data\bin\Debug\net6.0\print_yesterday_data.exe
+D:\.NET\print_yesterday_data\print_yesterday_data\bin\Debug\net6.0\print_yesterday_data.deps.json
+D:\.NET\print_yesterday_data\print_yesterday_data\bin\Debug\net6.0\print_yesterday_data.runtimeconfig.json
+D:\.NET\print_yesterday_data\print_yesterday_data\bin\Debug\net6.0\print_yesterday_data.dll
+D:\.NET\print_yesterday_data\print_yesterday_data\bin\Debug\net6.0\print_yesterday_data.pdb
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.AssemblyInfoInputs.cache
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.AssemblyInfo.vb
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.vbproj.CoreCompileInputs.cache
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.dll
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\refint\print_yesterday_data.dll
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.pdb
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\print_yesterday_data.genruntimeconfig.cache
+D:\.NET\print_yesterday_data\print_yesterday_data\obj\Debug\net6.0\ref\print_yesterday_data.dll

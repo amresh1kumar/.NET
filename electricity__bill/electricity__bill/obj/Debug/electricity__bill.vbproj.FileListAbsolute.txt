@@ -1,0 +1,10 @@
+D:\.NET\electricity__bill\electricity__bill\bin\Debug\electricity__bill.exe.config
+D:\.NET\electricity__bill\electricity__bill\bin\Debug\electricity__bill.exe
+D:\.NET\electricity__bill\electricity__bill\bin\Debug\electricity__bill.pdb
+D:\.NET\electricity__bill\electricity__bill\bin\Debug\electricity__bill.xml
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.Form1.resources
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.Resources.resources
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.vbproj.GenerateResource.Cache
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.exe
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.xml
+D:\.NET\electricity__bill\electricity__bill\obj\Debug\electricity__bill.pdb

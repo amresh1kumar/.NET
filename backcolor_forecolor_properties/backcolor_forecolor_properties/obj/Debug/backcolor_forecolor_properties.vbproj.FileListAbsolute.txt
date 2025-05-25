@@ -1,0 +1,12 @@
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\bin\Debug\backcolor_forecolor_properties.exe.config
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\bin\Debug\backcolor_forecolor_properties.exe
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\bin\Debug\backcolor_forecolor_properties.pdb
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\bin\Debug\backcolor_forecolor_properties.xml
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.Form1.resources
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.Resources.resources
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.vbproj.GenerateResource.Cache
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.exe
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.xml
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.pdb
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.vbproj.AssemblyReference.cache
+D:\.NET\backcolor_forecolor_properties\backcolor_forecolor_properties\obj\Debug\backcolor_forecolor_properties.vbproj.CoreCompileInputs.cache

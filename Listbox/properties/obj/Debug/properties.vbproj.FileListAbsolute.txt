@@ -1,0 +1,10 @@
+D:\.NET\properties\properties\bin\Debug\properties.exe.config
+D:\.NET\properties\properties\bin\Debug\properties.exe
+D:\.NET\properties\properties\bin\Debug\properties.pdb
+D:\.NET\properties\properties\bin\Debug\properties.xml
+D:\.NET\properties\properties\obj\Debug\properties.Form1.resources
+D:\.NET\properties\properties\obj\Debug\properties.Resources.resources
+D:\.NET\properties\properties\obj\Debug\properties.vbproj.GenerateResource.Cache
+D:\.NET\properties\properties\obj\Debug\properties.exe
+D:\.NET\properties\properties\obj\Debug\properties.xml
+D:\.NET\properties\properties\obj\Debug\properties.pdb

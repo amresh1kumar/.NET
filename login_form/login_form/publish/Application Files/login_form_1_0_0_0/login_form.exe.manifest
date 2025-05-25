@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="login_form.exe" version="1.0.0.0" publicKeyToken="1bf5378d3b2bfad9" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="smile.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="login_form" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="login_form.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="login_form.exe" size="1021872">
+      <assemblyIdentity name="login_form" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PwX8J790N5kk6+FHXfG+rcQf/zjZ6NefjwCvKQvzies=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="login_form.exe.config" size="532">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FqDJx3jNEyI5gjv5ATDrptReU2BBnXdD7vI7FvzkUbg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="smile.ico" size="164151">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jSozDLif+3l+t96Nb4fAmtIvT2zBbYaC5UHOx3yPmmM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AMRESH\Amresh" issuerKeyHash="6139938dd17577335a8907e7d015c1b7fa4854e2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UhgGUdY6iKN7txPDv02sfuWGaI4narrcUG2D8R7fv3A=</DigestValue></Reference></SignedInfo><SignatureValue>AtfLBjopB2gNb6oUNqvs+/LvwSKs66+cv4W+MRagWHj1V/3TIPie+9fPENnUQl4Q8aHLdvEaS/sIeEtP8mKQFz1ZF8+DK+PhTD1mUmcjhL9aTvmUKdgYKvaFBhhZBQq4gVDpN7zLsN1VB4jk1nPRc5OeiMzI67S0ghfPkVyWcqg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vOV2+89y79MAz98VH2R8bi2tM6X4cXT6kblbr/Y1bxzLCZx7Cag/KvEyn3FiJUQXiVHqkWK48q7d6Glb6wPwk/KFa4O8veFmXGDSrgVSPGUmpqq+Xv95LeUIvZse4eUmW2Ly424umF+GiLSt/aOrbdesN1q8XEIm4oWw9PAzaIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="70bfdf1ef1836d50dcba6a278e6886e57eac4dbfc313b77ba3883ad651061852" Description="" Url=""><as:assemblyIdentity name="login_form.exe" version="1.0.0.0" publicKeyToken="1bf5378d3b2bfad9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AMRESH\Amresh</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LFLw3XYD9Dk5vR1HOzesngCPChEVWqDOUFZT25/ucuk=</DigestValue></Reference></SignedInfo><SignatureValue>uG9ibSTM+/0rins++6hF+F77mXNuBj0D46HYlRVLe/tMWIsUCwJZaiD5xcidbz5kfNlJjrpbha/0bMGj8UdcYXQ+pk5HXZ4BApBt/3AWIJASdd4TqXPSFh02Kf8AMpKADAq+jiLD0fANTOHxvFhjr7QdWK9m9mQ4BHvUGi8mV/s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vOV2+89y79MAz98VH2R8bi2tM6X4cXT6kblbr/Y1bxzLCZx7Cag/KvEyn3FiJUQXiVHqkWK48q7d6Glb6wPwk/KFa4O8veFmXGDSrgVSPGUmpqq+Xv95LeUIvZse4eUmW2Ly424umF+GiLSt/aOrbdesN1q8XEIm4oWw9PAzaIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQF3wYQdoagbxEo2APXSGk0TANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAQQBNAFIARQBTAEgAXABBAG0AcgBlAHMAaDAeFw0yMzEwMDUxOTE2MzRaFw0yNDEwMDUwMTE2MzRaMCUxIzAhBgNVBAMeGgBBAE0AUgBFAFMASABcAEEAbQByAGUAcwBoMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC85Xb7z3Lv0wDP3xUfZHxuLa0zpfhxdPqRuVuv9jVvHMsJnHsJqD8q8TKfcWIlRBeJUeqRYrjyrt3oaVvrA/CT8oVrg7y94WZcYNKuBVI8ZSamqr5e/3kt5Qi9mx7h5SZbYvLjbi6YX4aItK39o6tt16w3WrxcQibihbD08DNogQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAG4Umrm4ol+DOPam4C2i01a7c5CZ2z/I9yYbcoq467KW4F/aiKCjwQvODg/IwpST/luNr0jartRyoIBCW1EhKUHbw5ZuNgk0AfZBzP179bnrVBPi9du6GXmpbwDAByNbrDhEijhKZZrMYvwDyUUuSXkVmvIZblgW9rj6NmPq/jah</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

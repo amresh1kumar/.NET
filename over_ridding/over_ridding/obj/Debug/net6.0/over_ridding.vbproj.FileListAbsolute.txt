@@ -1,0 +1,14 @@
+D:\.NET\over_ridding\over_ridding\bin\Debug\net6.0\over_ridding.exe
+D:\.NET\over_ridding\over_ridding\bin\Debug\net6.0\over_ridding.deps.json
+D:\.NET\over_ridding\over_ridding\bin\Debug\net6.0\over_ridding.runtimeconfig.json
+D:\.NET\over_ridding\over_ridding\bin\Debug\net6.0\over_ridding.dll
+D:\.NET\over_ridding\over_ridding\bin\Debug\net6.0\over_ridding.pdb
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.AssemblyInfoInputs.cache
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.AssemblyInfo.vb
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.vbproj.CoreCompileInputs.cache
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.dll
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\refint\over_ridding.dll
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.pdb
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\over_ridding.genruntimeconfig.cache
+D:\.NET\over_ridding\over_ridding\obj\Debug\net6.0\ref\over_ridding.dll

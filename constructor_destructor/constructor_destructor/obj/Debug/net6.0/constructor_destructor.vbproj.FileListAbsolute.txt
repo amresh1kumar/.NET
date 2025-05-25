@@ -1,0 +1,14 @@
+D:\.NET\constructor_destructor\constructor_destructor\bin\Debug\net6.0\constructor_destructor.exe
+D:\.NET\constructor_destructor\constructor_destructor\bin\Debug\net6.0\constructor_destructor.deps.json
+D:\.NET\constructor_destructor\constructor_destructor\bin\Debug\net6.0\constructor_destructor.runtimeconfig.json
+D:\.NET\constructor_destructor\constructor_destructor\bin\Debug\net6.0\constructor_destructor.dll
+D:\.NET\constructor_destructor\constructor_destructor\bin\Debug\net6.0\constructor_destructor.pdb
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.AssemblyInfoInputs.cache
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.AssemblyInfo.vb
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.vbproj.CoreCompileInputs.cache
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.dll
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\refint\constructor_destructor.dll
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.pdb
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\constructor_destructor.genruntimeconfig.cache
+D:\.NET\constructor_destructor\constructor_destructor\obj\Debug\net6.0\ref\constructor_destructor.dll

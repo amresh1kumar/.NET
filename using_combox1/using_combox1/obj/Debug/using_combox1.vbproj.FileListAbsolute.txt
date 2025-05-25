@@ -1,0 +1,10 @@
+D:\.NET\using_combox1\using_combox1\bin\Debug\using_combox1.exe.config
+D:\.NET\using_combox1\using_combox1\bin\Debug\using_combox1.exe
+D:\.NET\using_combox1\using_combox1\bin\Debug\using_combox1.pdb
+D:\.NET\using_combox1\using_combox1\bin\Debug\using_combox1.xml
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.Form1.resources
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.Resources.resources
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.vbproj.GenerateResource.Cache
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.exe
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.xml
+D:\.NET\using_combox1\using_combox1\obj\Debug\using_combox1.pdb

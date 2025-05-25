@@ -1,0 +1,14 @@
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\bin\Debug\first window form1.exe.config
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\bin\Debug\first window form1.exe
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\bin\Debug\first window form1.pdb
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\bin\Debug\first window form1.xml
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first_window_form1.login.resources
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first_window_form1.Resources.resources
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first window form1.vbproj.GenerateResource.Cache
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first window form1.exe
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first window form1.xml
+C:\Users\Disha\Documents\Visual Studio 2012\Projects\sachin III\first window form1\first window form1\obj\Debug\first window form1.pdb
+D:\.NET\first window form1\first window form1\bin\Debug\first window form1.exe.config
+D:\.NET\first window form1\first window form1\obj\Debug\first window form1.exe
+D:\.NET\first window form1\first window form1\obj\Debug\first window form1.xml
+D:\.NET\first window form1\first window form1\obj\Debug\first window form1.pdb

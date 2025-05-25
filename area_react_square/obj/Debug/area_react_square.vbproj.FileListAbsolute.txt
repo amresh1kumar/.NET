@@ -1,0 +1,11 @@
+D:\.NET\area_react_square\bin\Debug\area_react_square.exe.config
+D:\.NET\area_react_square\bin\Debug\area_react_square.exe
+D:\.NET\area_react_square\bin\Debug\area_react_square.pdb
+D:\.NET\area_react_square\bin\Debug\area_react_square.xml
+D:\.NET\area_react_square\obj\Debug\area_react_square.vbproj.AssemblyReference.cache
+D:\.NET\area_react_square\obj\Debug\area_react_square.Resources.resources
+D:\.NET\area_react_square\obj\Debug\area_react_square.vbproj.GenerateResource.cache
+D:\.NET\area_react_square\obj\Debug\area_react_square.vbproj.CoreCompileInputs.cache
+D:\.NET\area_react_square\obj\Debug\area_react_square.exe
+D:\.NET\area_react_square\obj\Debug\area_react_square.xml
+D:\.NET\area_react_square\obj\Debug\area_react_square.pdb

@@ -1,0 +1,12 @@
+D:\.NET\MDI_FORM2\MDI_FORM2\bin\Debug\MDI_FORM2.exe.config
+D:\.NET\MDI_FORM2\MDI_FORM2\bin\Debug\MDI_FORM2.exe
+D:\.NET\MDI_FORM2\MDI_FORM2\bin\Debug\MDI_FORM2.pdb
+D:\.NET\MDI_FORM2\MDI_FORM2\bin\Debug\MDI_FORM2.xml
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.Form1.resources
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.Resources.resources
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.vbproj.GenerateResource.Cache
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.exe
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.xml
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.pdb
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.vbproj.AssemblyReference.cache
+D:\.NET\MDI_FORM2\MDI_FORM2\obj\Debug\MDI_FORM2.vbproj.CoreCompileInputs.cache
